@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "652900577143",
+    "project_id": "nayanathan-101c9",
+    "storage_bucket": "nayanathan-101c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652900577143:android:326e85ccf245375a5afb72",
+        "android_client_info": {
+          "package_name": "com.example.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzK-7aPDOMnJo4k1zCT_uD5-Ik0qUMEig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
